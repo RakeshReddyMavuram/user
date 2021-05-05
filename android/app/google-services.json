@@ -1,0 +1,96 @@
+{
+  "project_info": {
+    "project_number": "849790146314",
+    "firebase_url": "https://urbanservice-9f72a.firebaseio.com",
+    "project_id": "urbanservice-9f72a",
+    "storage_bucket": "urbanservice-9f72a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849790146314:android:f961af0c350f9f2da2ccf3",
+        "android_client_info": {
+          "package_name": "com.urbanservyces.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849790146314-i2mguu4hjquskp7kbat5btu72eedea0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urbanservyces.user",
+            "certificate_hash": "6a49ea0029f17a9003f83b9bb666e31d5d15eab0"
+          }
+        },
+        {
+          "client_id": "849790146314-58q2mkqf4bm4b0hl9nkr91viicbj3tq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urbanservyces.user",
+            "certificate_hash": "b716b740c88d4ce69ea7ff186cabb2fa92e2ec70"
+          }
+        },
+        {
+          "client_id": "849790146314-9uv5nvugsm8pm9khif2vkeih1ssejmdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urbanservyces.user",
+            "certificate_hash": "fe6a19d529f6173015dfbac4e153eae7eefacfdb"
+          }
+        },
+        {
+          "client_id": "849790146314-v851jm7mf45p3rilbd4mkc2vddm8gnp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urbanservyces.user",
+            "certificate_hash": "c6b786c61602770ba108ee87a325cd297d8cfb74"
+          }
+        },
+        {
+          "client_id": "849790146314-b3chv25h2cieqiitj30rvar8v9s4rklq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urbanservyces.user",
+            "certificate_hash": "6ac73df42249707adf15d942905dc35265f63c8b"
+          }
+        },
+        {
+          "client_id": "849790146314-bc44cggo9j6qgeias98o8t8bgjo37c8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urbanservyces.user",
+            "certificate_hash": "ecee6c283baa6b57f5e7d63dd9783a9088cd7d3f"
+          }
+        },
+        {
+          "client_id": "849790146314-ghkcejnpmih26snub0iulnc39cfun37h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urbanservyces.user",
+            "certificate_hash": "2959404c885562890db1d7f007154ac0a639ca58"
+          }
+        },
+        {
+          "client_id": "849790146314-r4iq8jroo02l9q5t00mlcmovgom815a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbBC06pbdunTQvW3QRBNZY4Qcw7Sy9-Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849790146314-r4iq8jroo02l9q5t00mlcmovgom815a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

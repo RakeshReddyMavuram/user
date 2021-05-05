@@ -1,0 +1,7 @@
+
+
+class ConsumerModel{
+
+//  final var
+
+}
